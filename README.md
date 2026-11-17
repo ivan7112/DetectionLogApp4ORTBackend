@@ -1,1 +1,1 @@
-To run the service, execute uv run fastapi dev
+To run the service, execute fastapi dev src/main.py
